@@ -1,0 +1,42 @@
+_repo: John-Woolman-s-Journal_37311
+_version: 0.1.0
+alternative_title: John Woolman's Journal
+contributor:
+  commentator:
+    agent_name: Scudder, Vida Dutton
+    alias: Scudder, Vida D. (Vida Dutton)
+    birthdate: 1861
+    deathdate: 1954
+    gutenberg_agent_id: '38765'
+    url: http://www.gutenberg.org/2009/agents/38765
+covers:
+- cover_type: archival
+  image_path: 37311-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Woolman, John
+    birthdate: 1720
+    deathdate: 1772
+    gutenberg_agent_id: '38764'
+    url: http://www.gutenberg.org/2009/agents/38764
+description: ''
+gutenberg_issued: '2011-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37311'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Quakers -- Biography'
+- !lcsh 'Woolman, John, 1720-1772'
+- !lcc 'BX'
+tableOfContents: Introduction -- Advertisement to the reader -- The testimony of friends
+  in Yorkshire -- A testimony of the monthly-meeting of friends -- A journal of the
+  life, and travels of John Woolman -- The last epistle and other writings -- Considerations
+  on the true harmony of mankind -- An epistle to the quarterly and monthly meetings
+  of friends -- Remarks on sundry subjects -- Some expressions of John Woolman in
+  his last illness.
+title: The Journal, with Other Writings of John Woolman
+url: http://www.gutenberg.org/ebooks/37311
